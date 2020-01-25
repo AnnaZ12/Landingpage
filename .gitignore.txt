@@ -1,2 +1,2 @@
-.DS_Store
-.texts
+DS_Store
+texts
